@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50df34f7-8695-48e4-90a8-4f54bab31bcf" name="Default Changelist" comment="" />
+    <list default="true" id="50df34f7-8695-48e4-90a8-4f54bab31bcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/guess-number-game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/net/kinginfotech/MessageGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/net/kinginfotech/MessageGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/net/kinginfotech/MessageGeneratorImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/net/kinginfotech/MessageGeneratorImp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -31,8 +42,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../todo-list" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
@@ -113,6 +126,7 @@
       <workItem from="1579810889056" duration="6546000" />
       <workItem from="1579817769435" duration="5818000" />
       <workItem from="1579869695357" duration="641000" />
+      <workItem from="1586637000187" duration="850000" />
     </task>
     <servers />
   </component>
@@ -160,10 +174,11 @@
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>
     <state x="-1219" y="73" key="SettingsEditor/0.0.1280.984/-1440.0.1440.860@-1440.0.1440.860" timestamp="1579817830819" />
-    <state x="-1024" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1579875724220">
-      <screen x="-1440" y="0" width="1440" height="860" />
+    <state x="395" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1586636995824">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="-1024" y="255" key="com.intellij.ide.util.TipDialog/0.0.1280.984/-1440.0.1440.860@-1440.0.1440.860" timestamp="1579875724220" />
+    <state x="395" y="216" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-99.-1024.1280.984@0.0.1366.728" timestamp="1586636995824" />
     <state x="-976" y="110" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579810956788">
       <screen x="-1440" y="0" width="1440" height="860" />
     </state>

@@ -46,4 +46,8 @@ public class MessageGeneratorImp implements  MessageGenerator{
              return  direction +"! You have "+ game.getRemainingGuesses() + " guesses left";
         }
     }
+
+    public int getRandomNumberMessage(){
+         return 9;
+    }
 }
